@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on UI Automation
+- 🔭 I’m experienced in UI Automation
 - 🌱 I’m currently learning API Automation,Cucumber, Karate, REST Assured...
 - 💬 Ask me about Software Teting
 - 📫 How to reach me: www.linkedin.com/in/anushasaikam
